@@ -1,3 +1,3 @@
-module "10.147.17.133/sosal4iki/easy-proto"
+module github.com/Abdrashitoff-Vadim/gen
 
 go 1.25.0

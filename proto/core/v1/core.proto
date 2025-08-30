@@ -2,7 +2,7 @@ syntax = "proto3";
 
 package core;
 
-option go_package = "10.147.17.133/sosal4iki/easy-proto/generation/proto/core/v1;corev1";
+option go_package = "github.com/Abdrashitoff-Vadim/proto/gen/core/v1;corev1";
 
 service Core {
   rpc SumFunction(SumRequest) returns (SumResponse);

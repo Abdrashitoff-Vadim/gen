@@ -129,7 +129,7 @@ const file_core_v1_core_proto_rawDesc = "" +
 	"\vSumResponse\x12\x16\n" +
 	"\x06result\x18\x01 \x01(\x03R\x06result2:\n" +
 	"\x04Core\x122\n" +
-	"\vSumFunction\x12\x10.core.SumRequest\x1a\x11.core.SumResponseBDZB10.147.17.133/sosal4iki/easy-proto/generation/proto/core/v1;corev1b\x06proto3"
+	"\vSumFunction\x12\x10.core.SumRequest\x1a\x11.core.SumResponseB8Z6github.com/Abdrashitoff-Vadim/proto/gen/core/v1;corev1b\x06proto3"
 
 var (
 	file_core_v1_core_proto_rawDescOnce sync.Once
